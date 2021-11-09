@@ -55,10 +55,19 @@ https://github.com/Manasmw01/RGB_Logo_Wall_Light/
 # Output
 > The RGB LEDs worked as expected and the Logo was clear and bright enough.
 Here are some of the output videos and images:
->https://github.com/Manasmw01/RGB_Logo_Wall_Light/blob/main/5.jpg
-https://github.com/Manasmw01/RGB_Logo_Wall_Light_temp/blob/main/6.jpg
-https://github.com/Manasmw01/RGB_Logo_Wall_Light/blob/main/7.jpg
-https://github.com/Manasmw01/RGB_Logo_Wall_Light/blob/main/AVENGERS.mp4
+<p align="center">
+<img align="center" src="https://github.com/Manasmw01/RGB_Logo_Wall_Light/blob/main/5.jpg">
+</p>
+
+<p align="center">
+<img align="center" src="https://github.com/Manasmw01/RGB_Logo_Wall_Light_temp/blob/main/6.jpg">
+</p>
+
+<p align="center">
+<img align="center" src="https://github.com/Manasmw01/RGB_Logo_Wall_Light/blob/main/7.jpg">
+</p>
+
+
 
 
 # About ALLPCB
